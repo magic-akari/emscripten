@@ -13,7 +13,7 @@ types-requests==2.27.14
 unittest-xml-reporting==3.1.0
 
 # See https://github.com/emscripten-core/emscripten/issues/19785
-lxml==4.9.2
+lxml==4.9.4
 
 # This version is mentioned in `site/source/docs/site/about.rst`.
 # Please keep them in sync.
