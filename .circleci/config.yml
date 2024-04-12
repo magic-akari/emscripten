@@ -9,7 +9,7 @@ executors:
       - image: circleci/node:stretch
   linux-python:
     docker:
-      - image: cimg/python:3.10.7
+      - image: cimg/python:3.12.3
   bionic:
     docker:
       - image: emscripten/emscripten-ci
