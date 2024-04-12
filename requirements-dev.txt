@@ -22,7 +22,7 @@ sphinx==2.4.4
 jinja2<3.1
 
 # Pin docutils because newer versions are not compatible with sphinx 2.4.4
-docutils==0.17.1
+docutils==0.21.1
 
 # Needed by test/test_sockets.py
 websockify==0.10.0
